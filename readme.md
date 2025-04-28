@@ -1,10 +1,10 @@
 ### Lenny
-| Face | Description |
-| --- | --- |
-| ( ͡° ͜ʖ ͡°) | Lenny |
-| ¯\\\_( ͡° ͜ʖ ͡°)\_/¯ | Lenny asking why? |
-| ( ͡° ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ʖ ͡°)  ͡°) | Lenny and his gang |
-| ( ͡°╭͜ʖ╮ ͡°) | Lenny as ninjago master |
+| Face | Escaped Face | Description |
+| --- | --- | --- |
+| ( ͡° ͜ʖ ͡°) | ( ͡° ͜ʖ ͡°) | Lenny |
+| ¯\\\_( ͡° ͜ʖ ͡°)\_/¯ | ¯\\\\\_( ͡° ͜ʖ ͡°)\\\_/¯ | Lenny asking why? |
+| ( ͡° ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ʖ ͡°)  ͡°) | ( ͡° ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ʖ ͡°)  ͡°) |  Lenny and his gang |
+| ( ͡°╭͜ʖ╮ ͡°) | ( ͡°╭͜ʖ╮ ͡°) | Lenny as ninjago master |
 
 ### Non Lenny
 | Face | Description |
