@@ -1,150 +1,68 @@
-| Name | Face |
+### Lenny
+| Face | Description |
 | --- | --- |
-| Anger | ლ(ಠ益ಠ)ლ |
-| Angry Cat | (^.\_.^)ﾉ |
-| Angry Look | (⋟﹏⋞) |
-| Bat | / \| \\ ^ .\_. ^ / \| \\ |
-| Bear Flip Table | ʕ ノ • ᴥ • ʔ ノ ︵ ┻━┻ |
-| Bear Love | ʕ ♥ ᴥ ♥ ʔ |
-| Blind Lenny | ರ◡ರ |
-| Bowling | ＝( ^o^)ノ\_\_\_ｏ |
-| Buddies | (*^o^)人(^o^*) |
-| Cat | ₍^. .^₎⟆ |
-| Clapping | (￣ー￣)//”” |
-| Clown | ⫷ °⧭° ⫸ |
-| Cry Sad | (╥‸╥) |
-| Cry | (╥\_╥) |
-| Cute Lenny | (｡ ◕‿‿◕｡ ) |
-| Cute Look | •‿• |
-| Dance | ᕕ (⌐ ■ \_ ■) ᕗ ♪ ♬ |
-| Dead Person | ✖‿✖ |
-| Dead | (+\_+) |
-| Delicious | (っ ˆڡˆ ς) |
-| Depressed | (︶︹︶) |
-| Devil Lenny | ψ (｀ ∇´) ψ |
-| Disapproving lenny | ( ͡ಠ ʖ̯ ͡ಠ) |
-| Dj | d \[-\_-\] b |
-| Dog | (◕ᴥ◕ʋ) |
-| Doggy | V●ᴥ●V |
-| Don't Care | (- ʖ̯-) |
-| Double Flip | ┻━┻ ︵ ヽ (`Д´) ﾉ ︵ ┻━┻ |
-| Doubtful Look | ಠಿ\_ಠ |
-| Dreaming | (\_ \_)..ooOO |
-| Drinking | ( -\_-)旦~ |
-| Duck Face Lenny | (・ 3 ・) |
-| Embarrassed | (#^.^#) |
-| Face Plam | (-‸ლ) |
-| Facebook | (╯ ° □ °) ╯︵ ʞooqǝɔɐɟ |
-| Fake Smile | (ñ\_ñ) |
-| Fart | (ˆ ⺫ ˆ๑) &lt;3 |
-| Fish | ϵ( 'Θ' )϶ |
-| Five High | .\_.) / \\ (.\_. |
-| Flexing Muscles | ᕙ( ͡° ͜ʖ ͡°)ᕗ |
-| Flip Lenny | (ノ ͡ ° ͜ʖ ͡ ° ノ) ︵ (͜。 ͡ʖ ͜。) |
-| Flower | (✿◠‿◠) |
-| Fly | ─ = ≡Σ (((つ ◕ل͜◕) つ |
-| Furious | (ò\_ó) |
-| Ghost | ༼ つ ╹ ╹ ༽ つ |
-| Gift | (´ ・ ω ・) っ 由 |
-| Glasses Lenny | (⌐▨\_▨) |
-| Glasses Of Disapproval | (-■\_■) |
-| Glasses | (⌐ ͡ ■ ͜ʖ ͡ ■) |
-| Good Bye | (ʘ‿ʘ) ╯ |
-| Haha | ٩ (^ ‿ ^) ۶ |
-| Happy Dog Look | (ᵔᴥᵔ) |
-| Happy Look Of Disapproval | ಠ⌣ಠ |
-| Happy Run | ᕕ (ᐛ) ᕗ |
-| Happy Suare | 【ツ】 |
-| Happy | ⊂ (◉‿◉) |
-| Heart Broken | (∿°○°)∿ ︵ ǝʌol |
-| Help | \\ (° Ω °) / |
-| Help | \\ (° Ω °) / |
-| Hide | ┬┴┬┴┤ (･ \_├┬┴┬┴ |
-| Hiding | \|д･) |
-| Hitting | (｀ 皿 ´)｡ ﾐ / |
-| Hooray | \\ (ﾟ ヮ ﾟ) / |
-| Hopeful | o(^^o)(o^^)o |
-| Hug Lenny | (づ ｡ ◕‿‿◕｡ ) づ |
-| Hugging | (&gt;^\_^)&gt;&lt;(^o^&lt;) |
-| I Don't Know |  ̄ \\ (° \_o) / ̄  |
-| In Love | (っ ́ω'c) ♡ |
-| Jelous | 8(&gt;\_&lt;)8 |
-| Joyful | (≧∇≦)/ |
-| Kissing | (づ ￣ ³￣) づ |
-| Kitty Cat | ⋟^≏^⋞ |
-| Lazy Lenny | \_ (: 3 」∠) \_ |
-| Lenny Fight | (ง ͠ ° ͟ʖ ͡ °) ง |
-| Lenny Gang | ( ͡° ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ʖ ͡°) ͡°)  |
-| Lol | L (° O ° L) |
-| Look | ಠ\_ಠ |
-| Love | ♥ ‿ ♥ |
-| Loving Couple | (ɔˆ ³(ˆ⌣ˆc) |
-| Magic Attack|  (∩｀-´)⊃━☆ﾟ.*･｡ﾟ |
-| Magic Flip | (/ ¯◡ ‿ ◡) / ¯ ~ ┻━┻ |
-| Magic Lenny | ╰ (͡ ° ͜ʖ ͡ °) つ ── ☆ *: ・ ﾟ |
-| Meditation | ⊹╰ (⌣ʟ⌣) ╯⊹ |
-| Mogus | ඞ | 
-| Monkey | @( o･ω･)@ |
-| Monster | ༼ ༎ ຶ ෴ ༎ ຶ ༽ |
-| Muscular Person | ᕦ❍ᴗ❍ᕤ |
-| Mustache | ( ￣┏＿┓￣) |
-| Ninjago Lenny | ( ͡°╭͜ʖ╮͡° ) |
-| Oh No | L(´□｀L) |
-| Painful | (&gt;\_&lt;) |
-| Plain Lenny |  ͡° ͜ʖ ͡° |
-| Point Flip Table | (☞ﾟヮﾟ)☞ ┻━┻ |
-| Poking Cat | ฅᨐฅ |
-| Poking | (*・)σσ(*゜O゜) |
-| Punch | O = ('-' Q) |
-| Punch |（。\_°☆＼(- – ) |
-| Punched Lenny | (。\_°)☆ |
-| Puppy | U＾ェ＾U |
-| Rabbit | U=･ x ･=U |
-| Really | ò\_ô |
-| Regular Lenny | (͡ ° ͜ʖ ͡ °) |
-| Robot | ¥\[*.*\]¥ |
-| Roll Eyes | (◔\_◔) |
-| Romantic Lenny Face | (ɔ˘з˘)ɔ |
-| Sad Donger | ヽ ༼ ຈ ʖ̯ ຈ ༽ ﾉ |
-| Sad | (͡ ° ʖ̯ ͡ °) |
-| Say Hello | (´◔ ω◔') ノ シ |
-| Scheming | ಠᴗಠ |
-| Scratching | &lt;(;￣ ･￣) |
-| Sending Kiss | ( ˘ ³˘)♥ |
-| Serious Look | (ಠ\_ಠ) |
-| Shocked Lenny | ⊙▂⊙ |
-| Shooting | (ﾟ皿ﾟ)ｒ┏┳－* |
-| Shrug Lenny | ¯ \\ \_ (͡ ° ͜ʖ ͡ °) \_ / ¯ |
-| Shy | (#^.^#) |
-| Sick | \[ ± \_ ± \] |
-| Singing Lenny Face | (^o^) |
-| Slapping | (；^＿^)ッ☆(　゜o゜) |
-| Smoking | y(^ o^)y~~ |
-| Sniper | ( ´-ω･)︻┻┳══━一 |
-| So Sorry |（ﾉ´д｀） |
-| Strong Lenny | ᕦ (͡ ° ͜ʖ ͡ °) ᕤ |
-| Suicide | ε / ̵͇̿̿ / '̿'̿ ̿ (◡︵◡) |
-| Support | (҂◡\_◡) ᕤ |
-| Surrender | (ﾉ\_ \_)ﾉ |
-| Swag | (̿▀̿‿ ̿▀̿ ̿) |
-| Tasty | (๑╹ڡ╹๑) |
-| Tears | (ಥ\_ಥ) |
-| Teddy Bear | ⊂(◜ᴥ◝)つ |
-| Thumbs Up | d-(^.^)z |
-| Tired | (= \_\_\_\_ =) |
-| Tired | /\_\_\_\\ |
-| Too Good | ᕦ (òᴥó) ᕥ |
-| Tried | 〠\_〠 |
-| Unamused | (ㆆ\_ㆆ) |
-| Unimpressed | （￣～￣） |
-| Upset | (*｀へ´*) |
-| Vampire | (*▿▿* ƪ) |
-| Wait | (″･ิ\_･ิ)っ |
-| What | (ÒДÓ ױ) |
-| Whistle | (っ ^ з ^) ♪ ♬ |
-| Why | ლ ('◉◞౪◟◉‵ლ) |
-| Wink | ( ͡~ ͜ʖ ͡°) |
-| Writing | ＿〆(。。) |
-| Wtf | (⊙＿⊙ ') |
-| Yes | (• ̀ᴗ • ́) و ̑̑ |
-| Zombi | \[¬º- °\] ¬ |
+| ( ͡° ͜ʖ ͡°) | Lenny |
+| ¯\\\_( ͡° ͜ʖ ͡°)\_/¯ | Lenny asking why? |
+| ( ͡° ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ʖ ͡°)  ͡°) | Lenny and his gang |
+| ( ͡°╭͜ʖ╮ ͡°) | Lenny as ninjago master |
+
+### Non Lenny
+| Face | Description |
+| --- | --- |
+| m(\_ \_)m | Kowtow as a sign of respect, or dogeza for apology |
+| (´･ω･\`) | Snubbed or deflated |
+| (\`･ω･´) | Feel perky |
+| (｀-´)> | Salute |
+| (´；ω；\`) | Terribly sad |
+| ヽ(´ー｀)ﾉ | Peace of mind |
+| ヽ(\`Д´)ﾉ | Be irritable |
+| (＃ﾟДﾟ) | Angry |
+| （ ´Д｀） | Yelling, or panting |
+| （　ﾟДﾟ） | Surprised, or loudmouthed |
+| ┐('～\`；)┌ | Don't know the answer |
+| （´∀｀） | Carefree |
+| （　´\_ゝ\`） | Indifferent |
+| Σ(゜д゜;) | Shocked |
+| ( ﾟヮﾟ) | Happy, upbeat |
+| ⊂二二二（＾ω＾）二⊃ | "Bu-n", being carefree and above, with arms stretched out while running/soaring |
+| (((( ；ﾟДﾟ))) | Spook |
+| Σ(ﾟДﾟ) | Huge surprise |
+| ( ´∀｀)σ)∀\`) | Jog (poke) someone's cheek |
+| ( ﾟдﾟ) | Amazed |
+| (´ー\`)y-~~ | Smoking |
+| （ ^\_^）o自自o（^\_^ ） | Toast "Cheers" |
+| m9(・∀・) | Flash of intuition |
+| ヽ(´ー\`)人(´∇｀)人(\`Д´)ノ | Friendly |
+| ('A\`) | Lonely |
+| （ ´,\_ゝ\`) | Depressed, unsatisfied (based on indifferent) |
+| （´-\`）.｡oO( ... ) | Thinking |
+| (ﾟДﾟ;≡;ﾟДﾟ) | Impatience |
+| ( ´д)ﾋｿ(´Д｀)ﾋｿ(Д｀) | Whispers |
+| （･∀･)つ⑩ | Carrying money |
+| ⊂（ﾟДﾟ⊂⌒｀つ≡≡≡(´⌒;;;≡≡≡ | Sliding on belly, "whooaaa!!!" |
+| (ﾟдﾟ) | Unforeseen |
+| (ﾟ⊿ﾟ) | "I don't need it" |
+| щ(ﾟДﾟщ) (屮ﾟДﾟ)屮 | Come on |
+| （・∀・） | Mocking, "good" |
+| （・Ａ・） | "That's bad" |
+| (ﾟ∀ﾟ) | Discharged drug-in-brain, goofing around, "A-HYA!" |
+| （つ Д ｀） | Sad |
+| エェェ(´д｀)ェェエ | Not convincing |
+| (￣ー￣) | Simper, Snorlax |
+| ♪┏(・o･)┛♪┗ ( ･o･) ┓ | Happy expressions, dancing to the music |
+| d(*⌒▽⌒*)b | Happy expression |
+| ＿￣ | Given up. |
+| (╬ ಠ益ಠ) | Extreme Distaste, meant to appear as an exaggerated grimace |
+| (≧ロ≦) | Shouting |
+| (ΘεΘ;) | Pretending not to notice, asleep because of boredom |
+| ＼ ￣ヘ￣ | Kick |
+| ┌(；\`～,)┐ | Discombobulated |
+| ε=ε=ε=┌(;*´Д\`)ﾉ | Running |
+| ヽ(´▽\`)/ | Happy |
+| ^ㅂ^ | Happy |
+| (l'o'l) | Shocked |
+| ヽ(o\`皿′o)ﾉ | Really angry |
+| (☞ﾟヮﾟ)☞ | "Do it" |
+| ☜(ﾟヮﾟ☜) | "Do it" |
+| ☜(⌒▽⌒)☞ | Angel |
+[Source](https://en.wikipedia.org/wiki/List\_of\_emoticons)
