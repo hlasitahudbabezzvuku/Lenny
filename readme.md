@@ -3,7 +3,7 @@
 | --- | --- |
 | ( ͡° ͜ʖ ͡°) | Lenny |
 | ¯\\\_( ͡° ͜ʖ ͡°)\_/¯ | Lenny asking why? |
-| ( ͡° ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ʖ ͡°)  ͡°) | Lenny and his gang |
+| ( ͡° ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ʖ ͡°)   ͡°) | Lenny and his gang |
 | ( ͡°╭͜ʖ╮ ͡°) | Lenny as ninjago master |
 
 ### Non Lenny
