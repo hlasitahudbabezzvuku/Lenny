@@ -12,6 +12,7 @@
 | Cat | ₍^. .^₎⟆ |
 | Clapping | (￣ー￣)//”” |
 | Clown | ⫷ °⧭° ⫸ |
+| Cry Sad | (╥‸╥) |
 | Cry | (╥\_╥) |
 | Cute Lenny | (｡ ◕‿‿◕｡ ) |
 | Cute Look | •‿• |
