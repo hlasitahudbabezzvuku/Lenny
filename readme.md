@@ -85,6 +85,7 @@
 | Monster | ༼ ༎ ຶ ෴ ༎ ຶ ༽ |
 | Muscular Person | ᕦ❍ᴗ❍ᕤ |
 | Mustache | ( ￣┏＿┓￣) |
+| Ninjago Lenny | ( ͡°╭͜ʖ╮͡° ) |
 | Oh No | L(´□｀L) |
 | Painful | (&gt;\_&lt;) |
 | Plain Lenny |  ͡° ͜ʖ ͡° |
@@ -128,7 +129,6 @@
 | Thumbs Up | d-(^.^)z |
 | Tired | (= \_\_\_\_ =) |
 | Tired | /\_\_\_\\ |
-| Tits | (. Y.) |
 | Too Good | ᕦ (òᴥó) ᕥ |
 | Tried | 〠\_〠 |
 | Unamused | (ㆆ\_ㆆ) |
