@@ -1,10 +1,15 @@
 ### Lenny
 | Face | Escaped Face | Description |
 | --- | --- | --- |
-| ( ͡° ͜ʖ ͡°) | ( ͡° ͜ʖ ͡°) | Lenny |
-| ¯\\\_( ͡° ͜ʖ ͡°)\_/¯ | ¯\\\\\_( ͡° ͜ʖ ͡°)\\\_/¯ | Lenny asking why? |
-| ( ͡° ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ʖ ͡°)  ͡°) | ( ͡° ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ʖ ͡°)  ͡°) |  Lenny and his gang |
-| ( ͡°╭͜ʖ╮ ͡°) | ( ͡°╭͜ʖ╮ ͡°) | Lenny as ninjago master |
+| ( ͡° ͜ʖ ͡°) | `( ͡° ͜ʖ ͡°)` | Lenny |
+| ¯\\\_( ͡° ͜ʖ ͡°)\_/¯ | `¯\\\_( ͡° ͜ʖ ͡°)\_/¯` | Lenny asking why? |
+| ( ͡° ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ʖ ͡°)  ͡°) | `( ͡° ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ʖ ͡°)  ͡°)` |  Lenny and his gang |
+| ( ͡~ ͜ʖ ͡°) | `( ͡~ ͜ʖ ͡°)` | Lenny winking |
+| ( ͠° ͟ʖ ͡°) | `( ͠° ͟ʖ ͡°)` | Lenny judging you |
+| ( ͡°╭͜ʖ╮ ͡°) | `( ͡°╭͜ʖ╮ ͡°)` | Lenny as ninjago master |
+| ᕕ( ͡° ͜ʖ ͡° )ᕗ | `ᕕ( ͡° ͜ʖ ͡° )ᕗ` | Lenny going fast |
+| 乁( ⁰͡ Ĺ̯ ⁰͡ ) ㄏ | `乁( ⁰͡ Ĺ̯ ⁰͡ ) ㄏ` | Lenny disappointed |
+| (☭ ͜ʖ ☭) | `(☭ ͜ʖ ☭)` | Lenny the Communist |
 
 ### Non Lenny
 | Face | Description |
