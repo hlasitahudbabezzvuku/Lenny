@@ -93,7 +93,7 @@
 | Painful | (&gt;\_&lt;) |
 | Plain Lenny |  ͡° ͜ʖ ͡° |
 | Point Flip Table | (☞ﾟヮﾟ)☞ ┻━┻ |
-| Poking Cat | ฅᨐ ฅ |
+| Poking Cat | ฅᨐฅ |
 | Poking | (*・)σσ(*゜O゜) |
 | Punch | O = ('-' Q) |
 | Punch |（。\_°☆＼(- – ) |
