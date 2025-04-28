@@ -9,6 +9,7 @@
 | Blind Lenny | ರ◡ರ |
 | Bowling | ＝( ^o^)ノ\_\_\_ｏ |
 | Buddies | (*^o^)人(^o^*) |
+| Cat | ₍^. .^₎⟆ |
 | Clapping | (￣ー￣)//”” |
 | Clown | ⫷ °⧭° ⫸ |
 | Cry | (╥\_╥) |
