@@ -18,6 +18,7 @@
 | Face | Description |
 | --- | --- |
 | m(\_ \_)m | Kowtow as a sign of respect, or dogeza for apology |
+| ₍^. .^₎⟆ | Lurkinng cat |
 | (´･ω･\`) | Snubbed or deflated |
 | (\`･ω･´) | Feel perky |
 | (｀-´)> | Salute |
