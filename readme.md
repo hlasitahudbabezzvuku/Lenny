@@ -72,7 +72,7 @@
 | Kitty Cat | ⋟^≏^⋞ |
 | Lazy Lenny | \_ (: 3 」∠) \_ |
 | Lenny Fight | (ง ͠ ° ͟ʖ ͡ °) ง |
-| Lenny Gang | (͡ ° (͡ ° ͜ʖ (͡ ° ͜ʖ ͡ °) ʖ ͡ °) ͡ °) |
+| Lenny Gang | ( ͡° ( ͡° ͜ʖ ( ͡° ͜ʖ ͡°) ʖ ͡°) ͡°)  |
 | Lol | L (° O ° L) |
 | Look | ಠ\_ಠ |
 | Love | ♥ ‿ ♥ |
