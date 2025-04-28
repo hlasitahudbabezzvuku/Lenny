@@ -9,8 +9,10 @@
 | Blind Lenny | ರ◡ರ |
 | Bowling | ＝( ^o^)ノ\_\_\_ｏ |
 | Buddies | (*^o^)人(^o^*) |
+| Cat | ₍^. .^₎⟆ |
 | Clapping | (￣ー￣)//”” |
 | Clown | ⫷ °⧭° ⫸ |
+| Cry Sad | (╥‸╥) |
 | Cry | (╥\_╥) |
 | Cute Lenny | (｡ ◕‿‿◕｡ ) |
 | Cute Look | •‿• |
@@ -81,6 +83,7 @@
 | Magic Flip | (/ ¯◡ ‿ ◡) / ¯ ~ ┻━┻ |
 | Magic Lenny | ╰ (͡ ° ͜ʖ ͡ °) つ ── ☆ *: ・ ﾟ |
 | Meditation | ⊹╰ (⌣ʟ⌣) ╯⊹ |
+| Mogus | ඞ | 
 | Monkey | @( o･ω･)@ |
 | Monster | ༼ ༎ ຶ ෴ ༎ ຶ ༽ |
 | Muscular Person | ᕦ❍ᴗ❍ᕤ |
@@ -90,6 +93,7 @@
 | Painful | (&gt;\_&lt;) |
 | Plain Lenny |  ͡° ͜ʖ ͡° |
 | Point Flip Table | (☞ﾟヮﾟ)☞ ┻━┻ |
+| Poking Cat | ฅᨐฅ |
 | Poking | (*・)σσ(*゜O゜) |
 | Punch | O = ('-' Q) |
 | Punch |（。\_°☆＼(- – ) |
