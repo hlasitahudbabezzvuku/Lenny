@@ -65,4 +65,5 @@
 | (☞ﾟヮﾟ)☞ | "Do it" |
 | ☜(ﾟヮﾟ☜) | "Do it" |
 | ☜(⌒▽⌒)☞ | Angel |
+
 [Source](https://en.wikipedia.org/wiki/List\_of\_emoticons)
