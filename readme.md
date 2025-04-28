@@ -81,6 +81,7 @@
 | Magic Flip | (/ ¯◡ ‿ ◡) / ¯ ~ ┻━┻ |
 | Magic Lenny | ╰ (͡ ° ͜ʖ ͡ °) つ ── ☆ *: ・ ﾟ |
 | Meditation | ⊹╰ (⌣ʟ⌣) ╯⊹ |
+| Mogus | ඞ | 
 | Monkey | @( o･ω･)@ |
 | Monster | ༼ ༎ ຶ ෴ ༎ ຶ ༽ |
 | Muscular Person | ᕦ❍ᴗ❍ᕤ |
