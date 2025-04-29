@@ -12,13 +12,11 @@
 | 乁( ⁰͡ Ĺ̯ ⁰͡ ) ㄏ | `乁( ⁰͡ Ĺ̯ ⁰͡ ) ㄏ` | Lenny disappointed |
 | (☭ ͜ʖ ☭) | `(☭ ͜ʖ ☭)` | Lenny the Communist |
 
-
-
 ### Non Lenny
 | Face | Description |
 | --- | --- |
 | m(\_ \_)m | Kowtow as a sign of respect, or dogeza for apology |
-| ₍^. .^₎⟆ | Lurkinng cat |
+| ₍^. .^₎⟆ | Lurkinng cat (3ther) |
 | (´･ω･\`) | Snubbed or deflated |
 | (\`･ω･´) | Feel perky |
 | (｀-´)> | Salute |
