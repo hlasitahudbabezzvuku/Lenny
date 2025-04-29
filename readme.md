@@ -13,8 +13,8 @@
 | (☭ ͜ʖ ☭) | `(☭ ͜ʖ ☭)` | Lenny the Communist |
 
 ### Non Lenny
-| Face | Description |
-| --- | --- |
+| Face | Escaped Face | Description |
+| --- | --- | --- |
 | m(\_ \_)m | `m(\_ \_)m` | Kowtow as a sign of respect, or dogeza for apology |
 | ₍^. .^₎⟆ | `₍^. .^₎⟆` | Lurkinng cat (3ther) |
 | (´･ω･\`) | `(´･ω･\`)` | Snubbed or deflated |
