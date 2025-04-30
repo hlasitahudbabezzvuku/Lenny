@@ -15,57 +15,57 @@
 ### Non Lenny (Kaomoji faces)
 | Face | Description |
 | --- | --- |
-| (\>\_\<)   (\>\_\<)\>   (\>w\<) | Troubled |
+| (\>\_\<) <br> (\>\_\<)\> <br> (\>w\<) | Troubled |
 | (';') | Baby |
-| (^^ゞ   (^\_^;)   (-\_-;)   (\~\_\~;)   (・.・;)   (・\_・;)   (・・;) ^^;   ^\_^;   (#^.^#)   (^  ^;) | Nervous, embarrassed, troubled, shy, sweat drop |
+| (^^ゞ <br> (^\_^;) <br> (-\_-;) <br> (\~\_\~;) <br> (・.・;) <br> (・\_・;) <br> (・・;) ^^; <br> ^\_^; <br> (#^.^#) <br> (^  ^;) | Nervous, embarrassed, troubled, shy, sweat drop |
 | (⁄ ⁄•⁄ω⁄•⁄ ⁄) | Embarrassed, flushed |
-| (^.^)y-.o○   (-.-)y-°°° | Smoking |
+| (^.^)y-.o○ <br> (-.-)y-°°° | Smoking |
 | (-\_-)zzz | Sleeping |
-| (^\_-)   (^\_-)-☆ | Wink |
-| ((+\_+))   (+o+)   (°°)   (°-°)   (°.°)   (°\_°)   (°\_°\>)   (°レ°) | Confused |
+| (^\_-) <br> (^\_-)-☆ | Wink |
+| ((+\_+)) <br> (+o+) <br> (°°) <br> (°-°) <br> (°.°) <br> (°\_°) <br> (°\_°\>) <br> (°レ°) | Confused |
 | (o\|o) | Ultraman |
 | \<(｀^´)\> | — |
-| ^\_^   (°o°)   (^\_^)/   (^O^)/   (^o^)/   (^^)/   (≧∇≦)/   (/◕ヮ◕)/   (^o^)丿   ∩(·ω·)∩   (·ω·)   ^ω^ | Joyful |
-| (\_\_)   \_(.\_.)\_   \_(\_^\_)\_   \<(\_ \_)\>   \<m(\_\_)m\>   m(\_\_)m   m(\_ \_)m | Kowtow as a sign of respect, or dogeza for apology |
-| ＼(°ロ＼)   (／ロ°)／ | Questioning |
-| ('\_')   (/\_;)   (T\_T)   (;\_;   (;\_;)   (;\_:)   (:\_;)   (;O;)   (ToT)   (Ｔ▽Ｔ);\_;   ;-;   ;n;   ;;   Q.Q   T.T   TnT   QQ   Q\_Q | Sad, crying |
-| (ー\_ー)!!   (-.-)   (-\_-)   (一一)   (；一\_一) | Shame |
+| ^\_^ <br> (°o°) <br> (^\_^)/ <br> (^O^)/ <br> (^o^)/ <br> (^^)/ <br> (≧∇≦)/ <br> (/◕ヮ◕)/ <br> (^o^)丿 <br> ∩(·ω·)∩ <br> (·ω·) <br> ^ω^ | Joyful |
+| (\_\_) <br> \_(.\_.)\_ <br> \_(\_^\_)\_ <br> \<(\_ \_)\> <br> \<m(\_\_)m\> <br> m(\_\_)m <br> m(\_ \_)m | Kowtow as a sign of respect, or dogeza for apology |
+| ＼(°ロ＼) <br> (／ロ°)／ | Questioning |
+| ('\_') <br> (/\_;) <br> (T\_T) <br> (;\_; <br> (;\_;) <br> (;\_:) <br> (:\_;) <br> (;O;) <br> (ToT) <br> (Ｔ▽Ｔ);\_; <br> ;-; <br> ;n; <br> ;; <br> Q.Q <br> T.T <br> TnT <br> QQ <br> Q\_Q | Sad, crying |
+| (ー\_ー)!! <br> (-.-) <br> (-\_-) <br> (一一) <br> (；一\_一) | Shame |
 | (=\_=) | Tired |
-| (=^・^=)   (=^・・^=)   =^\_^= | Cat |
-| (..)   (.\_.) | Looking down in sadness or boredom |
+| (=^・^=) <br> (=^・・^=) <br> =^\_^= | Cat |
+| (..) <br> (.\_.) | Looking down in sadness or boredom |
 | ^m^ | Giggling with hand covering mouth |
-| (・・?   (?\_?) | Confusion |
+| (・・? <br> (?\_?) | Confusion |
 | (－‸ლ) | Facepalm |
-| \>^\_^\<   \<^!^\>   ^/^   （\*^\_^\*）   §^.^§   (^\<^)   (^.^)   (^ム^)   (^·^)   (^.^)   (^\_^.)   (^\_^)   (^^)   (^J^)   (\*^.^\*)   ^\_^   (#^.^#)   （^—^） | Normal laugh |
-| (^^)/\~\~\~   (^\_^)/\~   (;\_;)/\~\~\~   (^.^)/\~\~\~   (-\_-)/\~\~\~   ($··)/\~\~\~   (@^^)/\~\~\~   (T\_T)/\~\~\~   (ToT)/\~\~\~ | Waving |
-| ＼(\~o\~)／   ＼(^o^)／   ＼(-o-)／   ヽ(^。^)ノ   ヽ(^o^)丿   (\*^0^\*) | Excited |
-| (\*\_\*)   (\*\_\*;   (+\_+)   (@\_@)   (@\_@。   (＠\_＠;)   ＼(◎o◎)／！ | Amazed |
+| \>^\_^\< <br> \<^!^\> <br> ^/^ <br> （\*^\_^\*） <br> §^.^§ <br> (^\<^) <br> (^.^) <br> (^ム^) <br> (^·^) <br> (^.^) <br> (^\_^.) <br> (^\_^) <br> (^^) <br> (^J^) <br> (\*^.^\*) <br> ^\_^ <br> (#^.^#) <br> （^—^） | Normal laugh |
+| (^^)/\~\~\~ <br> (^\_^)/\~ <br> (;\_;)/\~\~\~ <br> (^.^)/\~\~\~ <br> (-\_-)/\~\~\~ <br> ($··)/\~\~\~ <br> (@^^)/\~\~\~ <br> (T\_T)/\~\~\~ <br> (ToT)/\~\~\~ | Waving |
+| ＼(\~o\~)／ <br> ＼(^o^)／ <br> ＼(-o-)／ <br> ヽ(^。^)ノ <br> ヽ(^o^)丿 <br> (\*^0^\*) | Excited |
+| (\*\_\*) <br> (\*\_\*; <br> (+\_+) <br> (@\_@) <br> (@\_@。 <br> (＠\_＠;) <br> ＼(◎o◎)／！ | Amazed |
 | !(^^)! | — |
-| (\*^^)v   (^^)v   (^\_^)v   （’-’\*)   (＾ｖ＾)   (＾▽＾)   (・∀・)   (´∀\`)   (⌒▽⌒） | Laughing, cheerful |
-| ＼(^o^)／   \\(^o^)/ | Hopeless |
-| (\~o\~)   (\~\_\~) | — |
+| (\*^^)v <br> (^^)v <br> (^\_^)v <br> （’-’\*) <br> (＾ｖ＾) <br> (＾▽＾) <br> (・∀・) <br> (´∀\`) <br> (⌒▽⌒） | Laughing, cheerful |
+| ＼(^o^)／ <br> \\(^o^)/ | Hopeless |
+| (\~o\~) <br> (\~\_\~) | — |
 | (^^ゞ | — |
 | ˊ＿\>ˋ | Calmness |
-| (p\_-)   (-\_q) | — |
+| (p\_-) <br> (-\_q) | — |
 | ((db)) | Headphones, listening to music |
-| (-"-)   (ーー゛)   (^\_^メ)   (-\_-メ)   (\~\_\~メ)   (－－〆)   (・へ・)   (｀´)   \<\`～´\>   \<\`ヘ´\>   (ーー;) | Worried |
-| (^0\_0^)   (^O\_O^) | Eyeglasses |
-| ( ..)φ   φ(..) | Jotting note |
-| (●＾o＾●)   (＾ｖ＾)   (＾ｕ＾)   (＾◇＾)   ( ^)o(^ )   (^O^)   (^o^)   (^○^)   )^o^(   (\*^▽^\*)   (✿◠‿◠) | Happy |
+| (-"-) <br> (ーー゛) <br> (^\_^メ) <br> (-\_-メ) <br> (\~\_\~メ) <br> (－－〆) <br> (・へ・) <br> (｀´) <br> \<\`～´\> <br> \<\`ヘ´\> <br> (ーー;) | Worried |
+| (^0\_0^) <br> (^O\_O^) | Eyeglasses |
+| ( ..)φ <br> φ(..) | Jotting note |
+| (●＾o＾●) <br> (＾ｖ＾) <br> (＾ｕ＾) <br> (＾◇＾) <br> ( ^)o(^ ) <br> (^O^) <br> (^o^) <br> (^○^) <br> )^o^( <br> (\*^▽^\*) <br> (✿◠‿◠) | Happy |
 | (￣ー￣) | Grinning |
-| (￣□￣;)   °o°   °O°   :O   o\_O   o\_0   o.O   (o.o)   oO | Surprised |
-| (\*´▽｀\*)   (\*°∀°)=3 | Infatuation |
+| (￣□￣;) <br> °o° <br> °O° <br> :O <br> o\_O <br> o\_0 <br> o.O <br> (o.o) <br> oO | Surprised |
+| (\*´▽｀\*) <br> (\*°∀°)=3 | Infatuation |
 | ᕕ( ᐛ )ᕗ | Dancing, swinging arms back and forth, "Happy Gary" |
-| （ ﾟ Дﾟ)   (°◇°) | Shocked, surprised |
+| （ ﾟ Дﾟ) <br> (°◇°) | Shocked, surprised |
 | (\*￣m￣) | Dissatisfied |
-| ヽ(´ー｀)┌   ¯\\\_(ツ)\_/¯   ¯\\(°\_o)/¯ | Mellow, shrug |
-| (´･ω･\`)   (‘A\`) | Snubbed or deflated |
+| ヽ(´ー｀)┌ <br> ¯\\\_(ツ)\_/¯ <br> ¯\\(°\_o)/¯ | Mellow, shrug |
+| (´･ω･\`) <br> (‘A\`) | Snubbed or deflated |
 | (づ￣ ³￣)づ | Hugging/reaching and kissing |
 | (\*^3^)/\~☆ | Blowing a kiss |
 | .....φ(・∀・＊) | Studying |
-| (-\_-) zzz   (︶｡︶✽) | Sleeping |
-| uwu   UwU | Joy or Cute |
-| OWO   OwO | Associated with the response, "what's this?". Could also be used to denote cute, inquisitive or perplexed, sometimes associated with the furry fandom. |
+| (-\_-) zzz <br> (︶｡︶✽) | Sleeping |
+| uwu <br> UwU | Joy or Cute |
+| OWO <br> OwO | Associated with the response, "what's this?". Could also be used to denote cute, inquisitive or perplexed, sometimes associated with the furry fandom. |
 
 ### Non Lenny (2channel)
 | Face | Escaped Face | Description |
