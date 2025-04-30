@@ -32,7 +32,6 @@
 | （　´\_ゝ\`） | ```（　´\_ゝ\`）``` | Indifferent |
 | Σ(゜д゜;) | ```Σ(゜д゜;)``` | Shocked |
 | ( ﾟヮﾟ) | ```( ﾟヮﾟ)``` | Happy, upbeat |
-| ⊂二二二（＾ω＾）二⊃ | ```⊂二二二（＾ω＾）二⊃``` | "Bu-n", being carefree and above, with arms stretched out while running/soaring |
 | (((( ；ﾟДﾟ))) | ```(((( ；ﾟДﾟ)))``` | Spook |
 | Σ(ﾟДﾟ) | ```Σ(ﾟДﾟ)``` | Huge surprise |
 | ( ´∀｀)σ)∀\`) | ```( ´∀｀)σ)∀\`)``` | Jog (poke) someone's cheek |
