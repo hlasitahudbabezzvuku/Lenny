@@ -1,4 +1,4 @@
-### Lenny
+## Lenny
 | Face | Escaped Face | Description |
 | --- | --- | --- |
 | ( ͡° ͜ʖ ͡°) | ```( ͡° ͜ʖ ͡°)``` | Lenny |
@@ -12,7 +12,7 @@
 | 乁( ⁰͡ Ĺ̯ ⁰͡ ) ㄏ | ```乁( ⁰͡ Ĺ̯ ⁰͡ ) ㄏ``` | Lenny disappointed |
 | (☭ ͜ʖ ☭) | ```(☭ ͜ʖ ☭)``` | Lenny the Communist |
 
-### Non Lenny (2channel)
+## Non Lenny (2channel)
 | Face | Escaped Face | Description |
 | --- | --- | --- |
 | m(\_ \_)m | ```m(\_ \_)m``` | Kowtow as a sign of respect, or dogeza for apology |
@@ -73,7 +73,7 @@
 | ☜(ﾟヮﾟ☜) | ```☜(ﾟヮﾟ☜)``` | "Do it" |
 | ☜(⌒▽⌒)☞ | ```☜(⌒▽⌒)☞``` | Angel |
 
-### Non Lenny (Kaomoji faces)
+## Non Lenny (Kaomoji faces)
 | Face | Escaped Face | Description |
 | --- | --- | --- |
 | (\>\_\<) <br> (\>\_\<)\> <br> (\>w\<) | `(\>\_\<)` <br> `(\>\_\<)\>` <br> `(\>w\<)` | Troubled |
