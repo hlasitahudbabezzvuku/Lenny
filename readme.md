@@ -65,7 +65,6 @@
 | .....φ(・∀・＊) | Studying |
 | (-\_-) zzz <br> (︶｡︶✽) | Sleeping |
 | uwu <br> UwU | Joy or Cute |
-| OWO <br> OwO | Associated with the response, "what's this?". Could also be used to denote cute, inquisitive or perplexed, sometimes associated with the furry fandom. |
 
 ### Non Lenny (2channel)
 | Face | Escaped Face | Description |
