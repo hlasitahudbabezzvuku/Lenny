@@ -12,7 +12,62 @@
 | 乁( ⁰͡ Ĺ̯ ⁰͡ ) ㄏ | ```乁( ⁰͡ Ĺ̯ ⁰͡ ) ㄏ``` | Lenny disappointed |
 | (☭ ͜ʖ ☭) | ```(☭ ͜ʖ ☭)``` | Lenny the Communist |
 
-### Non Lenny
+### Non Lenny (Kaomoji faces)
+| Face | Description |
+| --- | --- |
+| (>\_<)   (>\_<)>   (>w<) | Troubled |
+| (';') | Baby |
+| (^^ゞ   (^\_^;)   (-\_-;)   (\~\_\~;)   (・.・;)   (・\_・;)   (・・;) ^^;   ^\_^;   (#^.^#)   (^  ^;) | Nervous, embarrassed, troubled, shy, sweat drop |
+| (⁄ ⁄•⁄ω⁄•⁄ ⁄) | Embarrassed, flushed |
+| (^.^)y-.o○   (-.-)y-°°° | Smoking |
+| (-\_-)zzz | Sleeping |
+| (^\_-)   (^\_-)-☆ | Wink |
+| ((+\_+))   (+o+)   (°°)   (°-°)   (°.°)   (°\_°)   (°\_°>)   (°レ°) | Confused |
+| (o\|o) | Ultraman |
+| <(｀^´)> | — |
+| ^\_^   (°o°)   (^\_^)/   (^O^)/   (^o^)/   (^^)/   (≧∇≦)/   (/◕ヮ◕)/   (^o^)丿   ∩(·ω·)∩   (·ω·)   ^ω^ | Joyful |
+| (\_\_)   \_(.\_.)\_   \_(\_^\_)\_   <(\_ \_)>   <m(\_\_)m>   m(\_\_)m   m(\_ \_)m | Kowtow as a sign of respect, or dogeza for apology |
+| ＼(°ロ＼)   (／ロ°)／ | Questioning |
+| ('\_')   (/\_;)   (T\_T)   (;\_;   (;\_;)   (;\_:)   (:\_;)   (;O;)   (ToT)   (Ｔ▽Ｔ);\_;   ;-;   ;n;   ;;   Q.Q   T.T   TnT   QQ   Q\_Q | Sad, crying |
+| (ー\_ー)!!   (-.-)   (-\_-)   (一一)   (；一\_一) | Shame |
+| (=\_=) | Tired |
+| (=^・^=)   (=^・・^=)   =^\_^= | Cat |
+| (..)   (.\_.) | Looking down in sadness or boredom |
+| ^m^ | Giggling with hand covering mouth |
+| (・・?   (?\_?) | Confusion |
+| (－‸ლ) | Facepalm |
+| \>^\_^<   <^!^>   ^/^   （\*^\_^\*）   §^.^§   (^<^)   (^.^)   (^ム^)   (^·^)   (^.^)   (^\_^.)   (^\_^)   (^^)   (^J^)   (\*^.^\*)   ^\_^   (#^.^#)   （^—^） | Normal laugh |
+| (^^)/\~\~\~   (^\_^)/\~   (;\_;)/\~\~\~   (^.^)/\~\~\~   (-\_-)/\~\~\~   ($··)/\~\~\~   (@^^)/\~\~\~   (T\_T)/\~\~\~   (ToT)/\~\~\~ | Waving |
+| ＼(\~o\~)／   ＼(^o^)／   ＼(-o-)／   ヽ(^。^)ノ   ヽ(^o^)丿   (\*^0^\*) | Excited |
+| (\*\_\*)   (\*\_\*;   (+\_+)   (@\_@)   (@\_@。   (＠\_＠;)   ＼(◎o◎)／！ | Amazed |
+| !(^^)! | — |
+| (\*^^)v   (^^)v   (^\_^)v   （’-’\*)   (＾ｖ＾)   (＾▽＾)   (・∀・)   (´∀\`)   (⌒▽⌒） | Laughing, cheerful |
+| ＼(^o^)／   \\(^o^)/ | Hopeless |
+| (\~o\~)   (\~\_\~) | — |
+| (^^ゞ | — |
+| ˊ＿>ˋ | Calmness |
+| (p\_-)   (-\_q) | — |
+| ((db)) | Headphones, listening to music |
+| (-"-)   (ーー゛)   (^\_^メ)   (-\_-メ)   (\~\_\~メ)   (－－〆)   (・へ・)   (｀´)   <\`～´>   <\`ヘ´>   (ーー;) | Worried |
+| (^0\_0^)   (^O\_O^) | Eyeglasses |
+| ( ..)φ   φ(..) | Jotting note |
+| (●＾o＾●)   (＾ｖ＾)   (＾ｕ＾)   (＾◇＾)   ( ^)o(^ )   (^O^)   (^o^)   (^○^)   )^o^(   (\*^▽^\*)   (✿◠‿◠) | Happy |
+| (￣ー￣) | Grinning |
+| (￣□￣;)   °o°   °O°   :O   o\_O   o\_0   o.O   (o.o)   oO | Surprised |
+| (\*´▽｀\*)   (\*°∀°)=3 | Infatuation |
+| ᕕ( ᐛ )ᕗ | Dancing, swinging arms back and forth, "Happy Gary" |
+| （ ﾟ Дﾟ)   (°◇°) | Shocked, surprised |
+| (\*￣m￣) | Dissatisfied |
+| ヽ(´ー｀)┌   ¯\\\_(ツ)\_/¯   ¯\\(°\_o)/¯ | Mellow, shrug |
+| (´･ω･\`)   (‘A\`) | Snubbed or deflated |
+| (づ￣ ³￣)づ | Hugging/reaching and kissing |
+| (\*^3^)/\~☆ | Blowing a kiss |
+| .....φ(・∀・＊) | Studying |
+| (-\_-) zzz   (︶｡︶✽) | Sleeping |
+| uwu   UwU | Joy or Cute |
+| OWO   OwO | Associated with the response, "what's this?". Could also be used to denote cute, inquisitive or perplexed, sometimes associated with the furry fandom. |
+
+### Non Lenny (2channel)
 | Face | Escaped Face | Description |
 | --- | --- | --- |
 | m(\_ \_)m | ```m(\_ \_)m``` | Kowtow as a sign of respect, or dogeza for apology |
